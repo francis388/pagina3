@@ -1,0 +1,21 @@
+body {
+    background-color: #bce8f5; /* Color de fondo */
+    font-family: 'Arial', sans-serif;
+    color: #05444d;
+    
+    padding: 20px;
+}
+
+.s{
+    display: inline;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+li{
+
+    display: inline-block;
+   margin-inline-start: 250px;
+
+}
